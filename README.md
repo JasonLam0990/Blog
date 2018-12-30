@@ -3,3 +3,6 @@
 - [JS中正则表达式的使用](https://github.com/JasonLam0990/blog/issues/1)
 
 - [终于有时间调教下自己的Mac了 !!!](https://github.com/JasonLam0990/blog/issues/2)
+
+--------------------- 
+版权声明：本博客均为JasonLam原创文章，转载请附上相应链接！
